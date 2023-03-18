@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sleyva29, Biomedical Engineer and student in MsC. in Artificial Intelligence.
+- 👀 I’m interested in developement of IA's applications into the health area.
+- 🌱 I’m currently learning deep and machine learning.
+- 💞️ I’m looking to collaborate and immprove my knowledge.
+- 📫 How to reach me sheileyva29@gmail.com.
